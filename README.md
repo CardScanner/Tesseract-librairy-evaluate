@@ -44,5 +44,23 @@ Les modes de OCR engine :
      3. Moteurs Legacy + LSTM
      4. Paramètre par défaut
      
+Resultat de test de mode de ocr engine : 3 et  mode de segmentation de page : 11  avec la bibliotheque OpenCv et la bibliotheque Pillow :
+
+  Input :
+
+  ![R](https://github.com/CardScanner/Tesseract-librairy-evaluate/assets/127212498/dcb7e923-bb6f-4100-b598-b4159dee770e)
+
+  Output : 
+
+  ![OMPS11](https://github.com/CardScanner/Tesseract-librairy-evaluate/assets/127212498/c8043f3b-fc7c-442b-804a-bee1a6a3c9b1)
+
+  ![boxes](https://github.com/CardScanner/Tesseract-librairy-evaluate/assets/127212498/41eb194b-9d99-49d5-9453-c6d06bf632af)
+
+  ![zoonz](https://github.com/CardScanner/Tesseract-librairy-evaluate/assets/127212498/44793728-08b0-4274-b034-a023940d28fa)
+
+  ![testimhh](https://github.com/CardScanner/Tesseract-librairy-evaluate/assets/127212498/8d98b0e6-402c-4425-a8f3-54b3f9071c6d)
+
+
+
 
       
