@@ -60,7 +60,4 @@ Resultat de test de mode de ocr engine : 3 et  mode de segmentation de page : 11
 
   ![testimhh](https://github.com/CardScanner/Tesseract-librairy-evaluate/assets/127212498/8d98b0e6-402c-4425-a8f3-54b3f9071c6d)
 
-
-
-
-      
+  
